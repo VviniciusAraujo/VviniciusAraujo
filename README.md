@@ -22,31 +22,6 @@
 
 <td width="50%" align="center">
 
-![](Assets/eye.gif)
-
-</td>
-
-
-</tr>
-</table>
-
----
-
-<br><br><br>
-
-<h3 align="center">Statistics</h3>
-
-<table align="center">
-<tr>
-
-<td width="50%" align="center">
-
-<img src="https://raw.githubusercontent.com/VviniciusAraujo/VviniciusAraujo/main/Assets/rose.gif" width="350">
-
-</td>
-
-<td width="50%" align="center">
-
 <img src="Assets/you're.png">
 
 </td>
@@ -55,6 +30,7 @@
 </table>
 
 ---
+
 
 <br><br><br>
 
