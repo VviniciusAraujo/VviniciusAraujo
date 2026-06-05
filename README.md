@@ -22,7 +22,7 @@
 
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/VviniciusAraujo/VviniciusAraujo/main/Assets/eye.gif" width="350">
+![](Assets/eye.gif)
 
 </td>
 
