@@ -7,15 +7,16 @@
 <table>
 <tr>
 
-<td width="40%" align="center">
+<td width="50%" align="center">
 
-<h5>Technologies</h5>
+<h5>Tec</h5>
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,git,github,cpp,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,py,nodejs,js,cpp&theme=dark" />
 
 </td>
 
-<td width="100%" align="right">
+<td width="1%" align="right">
 
 <img src="Assets/eye.gif" width="500">
 
