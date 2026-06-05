@@ -1,18 +1,2 @@
-# Olá, eu sou Vinicius 👋
 
-🎓 Estudante de Desenvolvimento de Software
-
-📚 Atualmente estudando:
-
-[![My Skills](https://skillicons.dev/icons?i=java,c,github,py)](https://skillicons.dev)
-
-📚 Conhecimento em:
-
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,css,html)](https://skillicons.dev)
-
-🚀 Projetos:
-- Calculadora
-
-🎯 Objetivo:
-Conseguir minha primeira oportunidade na área de tecnologia.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=25&duration=6000&pause=500&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Backend+Developer;You're+gonna+carry+that+weight)](https://git.io/typing-svg)
