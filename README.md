@@ -1,5 +1,3 @@
-![](Assets/eye.gif)
-
 
 <img src="https://komarev.com/ghpvc/?username=VviniciusAraujo&color=grey">
 <br>
