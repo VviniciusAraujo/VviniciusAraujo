@@ -35,7 +35,7 @@
 
 <td width="50%" align="center">
 
-<img src="Assets/rose.gif" width="350">
+<img src="Assets/rose-optimize.gif" width="350">
 
 </td>
 
