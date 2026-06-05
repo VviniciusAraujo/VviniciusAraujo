@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=VviniciusAraujo&color=grey">
 
-<p align="right">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Backend+Developer">
 </p>
 
@@ -16,16 +16,37 @@
 
 </td>
 
-<td width="1%" align="right">
+<td width="1%" align="center">
 
-<img src="Assets/eye.gif" width="500">
+<img src="Assets/eye.gif" width="350">
 
 </td>
 
 </tr>
 </table>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -42,7 +63,7 @@
 
 <td width="35%" align="center">
 
-<img src="Assets/rose.gif" width="500">
+<img src="Assets/rose.gif" width="350">
 
 </td>
 
@@ -51,9 +72,40 @@
 <link src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VviniciusAraujo&theme=transparent">
 
 </td>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
 </tr>
 </table>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -62,8 +114,13 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VviniciusAraujo&theme=github-dark&hide_border=true">
 </p>
+
 <br>
 <br>
+<br>
+<br>
+<br>
+
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -72,7 +129,7 @@
 <br>
 
 <p align="center">
-<i>"See you soon, space cowboy..."</i>
+ <img src="see-you-soon-space-cow-boy.jpg">
 </p>
 
 <p align="center">
