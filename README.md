@@ -3,10 +3,7 @@
 🎓 Estudante de Desenvolvimento de Software
 
 📚 Atualmente estudando:
-- JavaScript
-- Node.js
-- Git e GitHub
-- C++
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 🚀 Projetos:
 - Calculadora
@@ -15,3 +12,8 @@
 
 🎯 Objetivo:
 Conseguir minha primeira oportunidade na área de tecnologia.
+
+
+## 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VviniciusAraujoo&show_icons=true&theme=dark)
