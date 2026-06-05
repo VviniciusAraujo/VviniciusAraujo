@@ -1,18 +1,81 @@
-# Olá, eu sou Vinicius 👋
+<img src="https://komarev.com/ghpvc/?username=VviniciusAraujo&color=grey">
 
-🎓 Estudante de Desenvolvimento de Software
+<p align="right">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Backend+Developer">
+</p>
 
-📚 Atualmente estudando:
+<table>
+<tr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,github,py)](https://skillicons.dev)
+<td width="50%" align="center">
 
-📚 Conhecimento em:
+<h5>Tec</h5>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,css,html)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,py,nodejs,js,cpp&theme=dark" />
 
-🚀 Projetos:
-- Calculadora
+</td>
 
-🎯 Objetivo:
-Conseguir minha primeira oportunidade na área de tecnologia.
+<td width="1%" align="right">
+
+<img src="Assets/eye.gif" width="500">
+
+</td>
+
+</tr>
+</table>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3>Statistics</h3>
+
+<table>
+<tr>
+
+<td width="35%" align="center">
+
+<img src="Assets/rose.gif" width="500">
+
+</td>
+
+<td width="65%" align="center">
+
+<link src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VviniciusAraujo&theme=transparent">
+
+</td>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</tr>
+</table>
+<br>
+<br>
+
+<h3 align="center">Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VviniciusAraujo&theme=github-dark&hide_border=true">
+</p>
+<br>
+<br>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<br>
+
+<p align="center">
+<i>"See you soon, space cowboy..."</i>
+</p>
+
+<p align="center">
+🌹
+</p>
 
