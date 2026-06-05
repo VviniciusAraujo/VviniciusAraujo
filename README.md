@@ -43,7 +43,7 @@
 
 <td width="65%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VviniciusAraujo&theme=dark&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusAraujo&theme=dark&hide_border=true">
 
 </td>
 
@@ -56,7 +56,7 @@
 <h3 align="center">Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VviniciusAraujo&theme=github-dark&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusAraujo&theme=github-dark&hide_border=true">
 </p>
 
 <br>
