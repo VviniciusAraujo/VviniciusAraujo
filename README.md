@@ -12,8 +12,6 @@
 
 🚀 Projetos:
 - Calculadora
-- Relógio Desktop
-- Cronômetro
 
 🎯 Objetivo:
 Conseguir minha primeira oportunidade na área de tecnologia.
