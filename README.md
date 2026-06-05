@@ -25,12 +25,16 @@
 </tr>
 </table>
 
-***
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h3>Statistics</h3>
 
 <table>
@@ -44,13 +48,12 @@
 
 <td width="65%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusAraujo&theme=dark&hide_border=true">
+<link src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VviniciusAraujo&theme=transparent">
 
 </td>
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </tr>
 </table>
-
 <br>
 <br>
 
@@ -59,7 +62,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VviniciusAraujo&theme=github-dark&hide_border=true">
 </p>
-
 <br>
 <br>
 
