@@ -8,6 +8,8 @@
 <table align="center">
 <tr>
 
+<br>
+
 <td width="50%" align="center">
 
 <h4>Tech Stack</h4>
@@ -49,3 +51,5 @@
 <p align="center">
 🌹
 </p>
+
+<br><br><br>
