@@ -3,7 +3,12 @@
 🎓 Estudante de Desenvolvimento de Software
 
 📚 Atualmente estudando:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,c,github,py)](https://skillicons.dev)
+
+📚 Conhecimento em:
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,css,html)](https://skillicons.dev)
 
 🚀 Projetos:
 - Calculadora
@@ -13,7 +18,3 @@
 🎯 Objetivo:
 Conseguir minha primeira oportunidade na área de tecnologia.
 
-
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusAraujo&show_icons=true&theme=dark)
