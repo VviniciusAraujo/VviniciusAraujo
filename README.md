@@ -43,7 +43,7 @@
 
 
 <div align="center">
-  <img src="Assets/eye-optimize.gif" width="500" height="200">
+  <img src="Assets/wide-optimize.gif" width="500" height="200">
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=VviniciusAraujo&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a)](https://git.io/streak-stats)
 
