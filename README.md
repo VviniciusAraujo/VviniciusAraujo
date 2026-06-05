@@ -20,27 +20,6 @@
 
 <td width="50%" align="center">
 
-<img src="Assets/eye-optimize.gif" width="350">
-
-</td>
-
-</tr>
-</table>
-
-
-<h3 align="center">Statistics</h3>
-
-<table align="center">
-<tr>
-
-<td width="50%" align="center">
-
-<img src="Assets/rose-optimize.gif" width="350">
-
-</td>
-
-<td width="50%" align="center">
-
 <img src="Assets/you're.png">
 
 </td>
@@ -50,7 +29,7 @@
 
 ---
 
-<br><br><br><br><br><br>
+<br><br><br>
 
 <h3 align="center">Contribution Graph</h3>
 
@@ -60,7 +39,7 @@
 
 ---
 
-<br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <p align="center">
   <img src="Assets/see-you-soon-space-cow-boy-removebg-preview.png" width="500">
