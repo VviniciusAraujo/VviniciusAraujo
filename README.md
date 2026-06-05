@@ -15,4 +15,3 @@
 
 🎯 Objetivo:
 Conseguir minha primeira oportunidade na área de tecnologia.
-
