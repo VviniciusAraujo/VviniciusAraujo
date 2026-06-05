@@ -16,4 +16,4 @@ Conseguir minha primeira oportunidade na área de tecnologia.
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VviniciusAraujoo&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusAraujo&show_icons=true&theme=dark)
