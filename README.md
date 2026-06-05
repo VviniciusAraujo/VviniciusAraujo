@@ -8,7 +8,6 @@
 <table align="center">
 <tr>
 
-<br>
 
 <td width="50%" align="center">
 
@@ -25,7 +24,7 @@
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%">
 
 <img src="Assets/you're.png">
 
@@ -36,10 +35,29 @@
 
 ---
 
+## Stats
+
+
+  
+
+
+
+<div align="center">
+  <img src="Assets/eye-optimize.gif" width="500" height="200">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=VviniciusAraujo&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a)](https://git.io/streak-stats)
+
+</br>
+
+</div>
+
+
+
+---
 
 <br><br><br>
 
-<h3 align="center">Contribution Graph</h3>
+## Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VviniciusAraujo&theme=github-dark&hide_border=true">
