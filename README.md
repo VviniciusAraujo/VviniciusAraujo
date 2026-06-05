@@ -29,6 +29,7 @@
 
 ---
 
+
 <br><br><br>
 
 <h3 align="center">Contribution Graph</h3>
@@ -39,7 +40,7 @@
 
 ---
 
-<br><br><br><br>
+<br><br><br>
 
 <p align="center">
   <img src="Assets/see-you-soon-space-cow-boy-removebg-preview.png" width="500">
