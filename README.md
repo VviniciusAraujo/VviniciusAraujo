@@ -1,7 +1,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=VviniciusAraujo&color=grey">
 <br>
-<p align="right">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Oxanium&size=25&duration=6000&pause=500&color=FFFFFF&center=true&vCenter=true&width=405&lines=Backend+Developer">
 </p>
 
@@ -20,7 +20,7 @@
 
 <td width="50%" align="center">
 
-<img src="Assets/eye.gif" width="350">
+<img src="Assets/eye.gif" width="200">
 
 </td>
 
@@ -29,7 +29,7 @@
 
 ---
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 <h3 align="center">Statistics</h3>
 
@@ -38,13 +38,13 @@
 
 <td width="50%" align="center">
 
-<img src="Assets/rose.gif" width="350">
+<img src="Assets/rose.gif" width="200">
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Oxanium&size=20&duration=1&pause=9000&color=FFFFFF&center=true&vCenter=true&width=405&lines=You're+gonna+carry+that+weight">
+<img src="Assets/you're.png">
 
 </td>
 
@@ -53,7 +53,7 @@
 
 ---
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 <h3 align="center">Contribution Graph</h3>
 
@@ -63,10 +63,10 @@
 
 ---
 
-<br><br><br>
+<br><br><br><br><br><br><br>
 
 <p align="center">
-  <img src="Assets/see-you-soon-space-cow-boy.jpg" width="5000">
+  <img src="Assets/see-you-soon-space-cow-boy-removebg-preview.png" width="500">
 </p>
 
 <p align="center">
