@@ -20,7 +20,7 @@
 
 <td width="50%" align="center">
 
-<img src="Assets/eye.gif" width="200">
+<img src="Assets/eye-optimize.gif" width="350">
 
 </td>
 
@@ -35,7 +35,7 @@
 
 <td width="50%" align="center">
 
-<img src="Assets/rose.gif" width="200">
+<img src="Assets/rose.gif" width="350">
 
 </td>
 
