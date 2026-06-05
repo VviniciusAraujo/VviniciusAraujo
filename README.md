@@ -43,7 +43,7 @@
 
 <td width="65%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusAraujo&theme=dark&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vcpjw&theme=dark&hide_border=true">
 
 </td>
 
