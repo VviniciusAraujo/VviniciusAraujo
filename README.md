@@ -8,6 +8,8 @@
 <table align="center">
 <tr>
 
+<br>
+
 <td width="50%" align="center">
 
 <h4>Tech Stack</h4>
@@ -27,6 +29,7 @@
 </tr>
 </table>
 
+<br><br><br>
 
 <h3 align="center">Statistics</h3>
 
@@ -50,7 +53,7 @@
 
 ---
 
-<br><br><br><br><br><br>
+<br><br><br>
 
 <h3 align="center">Contribution Graph</h3>
 
@@ -60,7 +63,7 @@
 
 ---
 
-<br><br><br><br><br><br><br>
+<br><br><br>
 
 <p align="center">
   <img src="Assets/see-you-soon-space-cow-boy-removebg-preview.png" width="500">
@@ -69,3 +72,5 @@
 <p align="center">
 🌹
 </p>
+
+<br><br><br>
