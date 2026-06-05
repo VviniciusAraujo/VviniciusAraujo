@@ -1,22 +1,24 @@
-<img src="https://komarev.com/ghpvc/?username=VviniciusAraujo&color=grey">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Backend+Developer">
+<img src="https://komarev.com/ghpvc/?username=VviniciusAraujo&color=grey">
+<br>
+<p align="right">
+  <img src="https://readme-typing-svg.demolab.com?font=Oxanium&size=25&duration=6000&pause=500&color=FFFFFF&center=true&vCenter=true&width=405&lines=Backend+Developer">
 </p>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" align="center">
 
-<h5>Tec</h5>
+<h4>Tech Stack</h4>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+<br>
 <img src="https://skillicons.dev/icons?i=java,py,nodejs,js,cpp&theme=dark" />
 
 </td>
 
-<td width="1%" align="center">
+<td width="50%" align="center">
 
 <img src="Assets/eye.gif" width="350">
 
@@ -25,89 +27,33 @@
 </tr>
 </table>
 
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
+---
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h3>Statistics</h3>
+<br><br><br>
 
-<table>
+<h3 align="center">Statistics</h3>
+
+<table align="center">
 <tr>
 
-<td width="35%" align="center">
+<td width="50%" align="center">
 
 <img src="Assets/rose.gif" width="350">
 
 </td>
 
-<td width="65%" align="center">
+<td width="50%" align="center">
 
-<link src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VviniciusAraujo&theme=transparent">
+<img src="https://readme-typing-svg.demolab.com?font=Oxanium&size=20&duration=1&pause=9000&color=FFFFFF&center=true&vCenter=true&width=405&lines=You're+gonna+carry+that+weight">
 
 </td>
 
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
 </tr>
 </table>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+---
+
+<br><br><br>
 
 <h3 align="center">Contribution Graph</h3>
 
@@ -115,24 +61,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VviniciusAraujo&theme=github-dark&hide_border=true">
 </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
+---
 
+<br><br><br>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-<br>
-
-<p align="center">
- <img src="see-you-soon-space-cow-boy.jpg">
+  <img src="Assets/see-you-soon-space-cow-boy.jpg" width="5000">
 </p>
 
 <p align="center">
 🌹
 </p>
-
